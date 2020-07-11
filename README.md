@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm 👨‍💻 polyglot software engineer and free time DevOps ♥️, routine work makes me 😩 so creating 🧰 automating dayly work.
+
+🌱 Always happy to learn new technologies from data bases to development tools, as well as programming languages.
+
+
 <!--
 **tipok/tipok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
