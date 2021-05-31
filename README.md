@@ -6,6 +6,8 @@ I'm 👨‍💻 polyglot software engineer and free time DevOps ♥️, routine 
 
 Currently 💼 in one of the biggest IT companies in the 🌍
 
+[Follow @tipok](https://twitter.com/tipok?ref_src=twsrc%5Etfw)
+
 <!--
 **tipok/tipok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
