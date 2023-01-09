@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there (he/him) 👋
 
 I'm 👨‍💻 polyglot software engineer and free time DevOps ♥️, routine work makes me 😩 so creating 🧰 automating dayly work.
 
 🌱 Always happy to learn new technologies from data bases to development tools, as well as programming languages.
 
-Currently 💼 in one of the biggest IT companies in the 🌍
+Then 💼 in one of the biggest IT companies in the 🌍
+Now 💼 in a smaller SaaS company.
 
 [Follow @tipok](https://twitter.com/tipok?ref_src=twsrc%5Etfw)
 
